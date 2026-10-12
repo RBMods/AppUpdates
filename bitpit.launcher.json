@@ -2,5 +2,5 @@
   "versionCode": 1642,
   "versionName": "V1.2.4",
   "downloadUrl": "https://example.com/update.apk",
-  "whatsNew": "<a href="https://www.w3schools.cfm">Visit W3Schools.com!</a><br>Bug fixes<br>Performance improvements<br>New features"
+  "whatsNew": "<a href='https://www.w3schools.cfm'>Visit W3Schools.com!</a><br>Bug fixes<br>Performance improvements<br>New features"
 }
