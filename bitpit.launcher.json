@@ -1,6 +1,6 @@
 {
-  "versionCode": 1640,
-  "versionName": "V1.2.3",
+  "versionCode": 1642,
+  "versionName": "V1.2.4",
   "downloadUrl": "https://example.com/update.apk",
-  "whatsNew": "<h3>What's New</h3><ul><li>Bug fixes</li><li>Performance improvements</li><li>New features</li></ul>"
+  "whatsNew": "<h3>Mod Update</h3><br>Bug fixes<br>Performance improvements<br>New features"
 }
